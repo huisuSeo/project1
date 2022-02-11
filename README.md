@@ -253,7 +253,7 @@ public class Pro1_3 extends JFrame {
     
 } // class
 ```
-##RequestPro1_3
+## RequestPro1_3
 ```java
 package aproject1;
 
@@ -470,7 +470,7 @@ public class Login extends JFrame implements ActionListener, MouseListener {
 } // class
 ```
 
-##ProCase
+## ProCase
 ```java
 package aproject1;
 
