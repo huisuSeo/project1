@@ -1,6 +1,6 @@
 # project1
 
-##Pro1_3
+## Pro1_3
 ``` java
 package aproject1;
 import javax.swing.*;
@@ -328,7 +328,7 @@ public class RequestPro1_3 extends Pro1_3{
 } // class
 ```
 
-##Login
+## Login
 ```java
 package aproject1;
 
@@ -670,7 +670,7 @@ public class ProCase extends JFrame {
 
 }
 ```
-##ProDialogView
+## ProDialogView
 ```java
 package aproject1;
 
